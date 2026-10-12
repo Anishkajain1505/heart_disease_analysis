@@ -1,5 +1,3 @@
-# sales-data-analysis
-Exploratory data analysis using Python, Pandas, Matplotlib and Seaborn
 # Heart Disease Analysis Using Python
 
 ## 1. Project Overview
